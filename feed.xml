@@ -3,14 +3,14 @@
     <title>Eren&#x27;s Website</title>
     <link href="https://erensuner.com/feed.xml" rel="self" />
     <link href="https://erensuner.com" />
-    <updated>2020-10-06T19:02:31-04:00</updated>
+    <updated>2020-10-06T19:21:37-04:00</updated>
     <author>
         <name>Eren Suner</name>
     </author>
     <id>https://erensuner.com</id>
 
     <entry>
-        <title>XP</title>
+        <title>Demo post</title>
         <author>
             <name>Eren Suner</name>
         </author>
@@ -18,46 +18,42 @@
         <id>https://erensuner.com/xp/</id>
             <category term="Articles"/>
 
-        <updated>2020-10-06T19:02:31-04:00</updated>
+        <updated>2020-10-06T19:21:07-04:00</updated>
             <summary>
                 <![CDATA[
-                     article demo 
+                     works! 
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                 
   <p>
-    article demo
+    works!
   </p>
             ]]>
         </content>
     </entry>
     <entry>
-        <title>Hello</title>
+        <title>Demo project</title>
         <author>
             <name>Eren Suner</name>
         </author>
         <link href="https://erensuner.com/hello/"/>
         <id>https://erensuner.com/hello/</id>
+            <category term="Projects"/>
 
-        <updated>2020-10-06T18:58:50-04:00</updated>
+        <updated>2020-10-06T19:21:37-04:00</updated>
             <summary>
                 <![CDATA[
-                     Dadada Bunch of codedef main(): print("dadada")AA
+                     Demo 
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                 
   <p>
-    Dadada
+    Demo
   </p>
-<pre class="line-numbers  language-html"><code>Bunch of code
-def main():
-  print("dadada")
-</code></pre>
-<div><h1 style="color:red">AA</h1></div>
             ]]>
         </content>
     </entry>

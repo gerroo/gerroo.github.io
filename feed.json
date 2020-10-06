@@ -12,9 +12,9 @@
         {
             "id": "https://erensuner.com/xp/",
             "url": "https://erensuner.com/xp/",
-            "title": "XP",
-            "summary": " article demo ",
-            "content_html": "\n  <p>\n    article demo\n  </p>",
+            "title": "Demo post",
+            "summary": " works! ",
+            "content_html": "\n  <p>\n    works!\n  </p>",
             "author": {
                 "name": "Eren Suner"
             },
@@ -22,21 +22,22 @@
                    "Articles"
             ],
             "date_published": "2020-10-06T19:01:47-04:00",
-            "date_modified": "2020-10-06T19:02:31-04:00"
+            "date_modified": "2020-10-06T19:21:07-04:00"
         },
         {
             "id": "https://erensuner.com/hello/",
             "url": "https://erensuner.com/hello/",
-            "title": "Hello",
-            "summary": " Dadada Bunch of codedef main(): print(\"dadada\")AA",
-            "content_html": "\n  <p>\n    Dadada\n  </p>\n<pre class=\"line-numbers  language-html\"><code>Bunch of code\ndef main():\n  print(\"dadada\")\n</code></pre>\n<div><h1 style=\"color:red\">AA</h1></div>",
+            "title": "Demo project",
+            "summary": " Demo ",
+            "content_html": "\n  <p>\n    Demo\n  </p>",
             "author": {
                 "name": "Eren Suner"
             },
             "tags": [
+                   "Projects"
             ],
             "date_published": "2020-10-06T12:01:16-04:00",
-            "date_modified": "2020-10-06T18:58:50-04:00"
+            "date_modified": "2020-10-06T19:21:37-04:00"
         }
     ]
 }
